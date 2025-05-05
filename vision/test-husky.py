@@ -46,7 +46,7 @@ def runExample():
                 print ("Color Height: " + str(color.height))
                 print("\n")
                 nScans += 1
-        time.sleep(1)  # sleep 2 sec
+        time.sleep(2)  # sleep 2 sec
 
 
 runExample()
